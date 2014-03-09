@@ -1,4 +1,3 @@
-#include <stdbool.h>
 #include <string.h> // memcpy()
 #include <stdlib.h> // malloc(), free(), rand()
 #include <stdio.h>
