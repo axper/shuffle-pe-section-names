@@ -1,6 +1,7 @@
 #include <stdio.h>
-#include "print.h"
 #include "winnt.h"
+
+#include "print.h"
 
 
 static void Print(const char *name, uint32_t number)
